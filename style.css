@@ -2,5 +2,15 @@ header{
     font-family:'Arial', sans-serif;
     text-align: center;
     font-size: 40px;
-    color: #5297f1;
+    color: #042858;
+}
+body{
+    background-image:
+    linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)),
+    url(https://media.istockphoto.com/id/1841580169/photo/the-thames-river-and-city-of-london.jpg?s=612x612&w=0&k=20&c=LbyOdmBpEEtKw2Cffzz5-AjvCC6snwG0fcaFpRVWaMU=);
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }

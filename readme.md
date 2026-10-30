@@ -13,7 +13,7 @@
 1 HTLM
 2 CSS 
 
-## SOME IMAGE OF PROJECT
+
 
 
  
